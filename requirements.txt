@@ -1,4 +1,5 @@
-pyspark
 streamlit
 pandas
+plotly
+numpy
 scikit-learn
